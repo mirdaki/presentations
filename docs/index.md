@@ -6,7 +6,7 @@
 
 
 
-# List
+# Git
 
 - [Introduction to Git and GitHub](/introduction-to-git)
 
