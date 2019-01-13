@@ -18,11 +18,11 @@ To use the presentation locally, run the below command and go to [localhost:8000
 npm start
 ```
 
-<!-- To create a fully independent static website, use the below command (and change then directory path):
+To create a fully independent static website in the docs folder, use the below command:
 
 ```bash
-npm build <destination-directory>
-``` -->
+npm run build-site
+```
 
 ## License
 
