@@ -6,9 +6,9 @@
 
 
 
-# Git
+# List
 
-- [Introduction to Git and GitHub](/introduction-to-git)
+- [Introduction to Git and GitHub](./introduction-to-git/index.html)
 
 
 
