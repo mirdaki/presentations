@@ -78,6 +78,9 @@ Aww yes, of course! Insert laughter
 - Provides workspace
 - Backup server
 
+Note:
+Many version control systems like SVN and Mercurial
+
 
 ## Git
 
@@ -176,7 +179,7 @@ Note:
 
 ## More Branch
 
-<p style="display: flex; justify-content: center; height: 80%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="https://blog.seibert-media.net/wp-content/uploads/2015/07/Git-Branches-3.png" alt="Simple Git Branch"></img>
 </p>
 
@@ -291,6 +294,7 @@ Run: `git clone <Git URL>`
 Note:
 - Do not download the zip, doesn't have the .git folder
 - Download file to current shell location
+- Git Bash on Windows sometimes has issues cloning. Closing and reopening fixes this
 
 
 ## Status
@@ -305,12 +309,9 @@ Note:
 - This is a good command to run all the time
 
 
-## Do something
+## Do Work
 
 Add a file
-<br>
-<br>
-This simulates work
 
 Note:
 Don't need to think to hard about it
@@ -410,7 +411,7 @@ Note:
 
 ## Other Things
 
-<p style="display: flex; justify-content: center;">
+<p style="display: flex; justify-content: center; height: 80%;">
 	<img src="https://openmatt.org/wp-content/uploads/2015/11/octocat_kenobi.jpg" alt="Obi-Wan Octocat"></img>
 </p>
 
@@ -457,7 +458,7 @@ Note:
 
 ## Git Flow
 
-<p style="display: flex; justify-content: center; height: 80%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="https://blog.xebia.fr/wp-content/uploads/2018/03/Image.png" alt="Git Flow Example"></img>
 </p>
 
@@ -493,6 +494,6 @@ Note:
 
 ## Thank you!
 
-<p style="display: flex; justify-content: center; height: 80%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="https://pbs.twimg.com/media/DfbsmMeU0AAIpmw.png" alt="Clippy and Mona"></img>
 </p>
