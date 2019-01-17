@@ -210,7 +210,7 @@ Store of objects is just how Git tracks everything
 
 ## Demo Time <!-- .element: style="color: #E74727;" -->
 
-<!-- .slide: data-background-image="http://www.britspirit.co.uk/resources/walking-stick_defence_barton-wright_9.gif" data-background-size="70%" -->
+<!-- .slide: data-background-image="https://www.britspirit.co.uk/resources/walking-stick_defence_barton-wright_9.gif" data-background-size="70%" -->
 
 <!-- The Gif is done kinda hack-y to make it big enough -->
 
@@ -221,6 +221,41 @@ Note:
 - Status
 - Commit
 - Push
+
+
+## The "Buckets"
+
+<p style="display: flex; justify-content: center;">
+	<img src="https://rachelcarmena.github.io/img/cards/posts/how-to-teach-Git/general-drawing.png" alt="Diagram showing the Working Directory, Staging Area, Local Repository, and Remote Repository of a Git setup"></img>
+</p>
+
+
+## Downloading
+
+<p style="display: flex; justify-content: center;">
+	<img src="https://raw.githubusercontent.com/rachelcarmena/how-to-teach/master/git/clone.png" alt="Diagram showing a git clone interact with the Working Directory, Local Repository, and Remote Repository of a Git setup"></img>
+</p>
+
+
+## Workflow
+
+<p style="display: flex; justify-content: center;">
+	<img src="https://raw.githubusercontent.com/rachelcarmena/how-to-teach/master/git/add-commit-push.png" alt="Diagram showing a git add, commit, and push interact with the Working Directory, Staging Area, Local Repository, and Remote Repository of a Git setup"></img>
+</p>
+
+
+## Updating
+
+<p style="display: flex; justify-content: center;">
+	<img src="https://raw.githubusercontent.com/rachelcarmena/how-to-teach/master/git/pull.png" alt="Diagram showing a git pull interact with the Working Directory, Local Repository, and Remote Repository of a Git setup"></img>
+</p>
+
+
+## Checking
+
+<p style="display: flex; justify-content: center;">
+	<img src="https://raw.githubusercontent.com/rachelcarmena/how-to-teach/master/git/states.png" alt="Diagram emphasizing the difference between the Working Directory, Staging Area, and Local Repository and the commands to diff them"></img>
+</p>
 
 
 
@@ -489,7 +524,7 @@ Note:
 
 - Free stuff: [education.github.com/pack](https://education.github.com/pack)
 - Training lab: [try.github.io/](https://try.github.io/)
-- GitHub guide: [guides.github.com/](https://guides.github.com/)
+- Inner-workings of Git: [rachelcarmena.github.io/2018/12/12/how-to-teach-git.html](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 
 
 ## Thank you!

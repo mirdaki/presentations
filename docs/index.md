@@ -6,12 +6,12 @@
 
 
 
-# List
+## List
 
 - [Introduction to Git and GitHub](./introduction-to-git/index.html)
 
 
 
-# The End
+## The End
 
 Hopefully more soon!
