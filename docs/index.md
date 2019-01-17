@@ -15,3 +15,5 @@
 ## The End
 
 Hopefully more soon!
+
+[Source available here](https://github.com/mirdaki/presentations)

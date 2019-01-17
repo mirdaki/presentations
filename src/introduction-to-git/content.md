@@ -525,6 +525,7 @@ Note:
 - Free stuff: [education.github.com/pack](https://education.github.com/pack)
 - Training lab: [try.github.io/](https://try.github.io/)
 - Inner-workings of Git: [rachelcarmena.github.io/2018/12/12/how-to-teach-git.html](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
+- Presentation source code: [github.com/mirdaki/presentations](https://github.com/mirdaki/presentations)
 
 
 ## Thank you!
