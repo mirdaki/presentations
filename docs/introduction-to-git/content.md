@@ -207,22 +207,6 @@ Note:
 Store of objects is just how Git tracks everything
 
 
-
-## Demo Time <!-- .element: style="color: #E74727;" -->
-
-<!-- .slide: data-background-image="https://www.britspirit.co.uk/resources/walking-stick_defence_barton-wright_9.gif" data-background-size="70%" -->
-
-<!-- The Gif is done kinda hack-y to make it big enough -->
-
-Note:
-- Btw, this is the "walking stick defense"
-- Clone the repo
-- Make a change
-- Status
-- Commit
-- Push
-
-
 ## The "Buckets"
 
 <p style="display: flex; justify-content: center;">
@@ -259,9 +243,25 @@ Note:
 
 
 
-## Configure Git
+## Demo Time <!-- .element: style="color: #E74727;" -->
 
-It wont hurt a bit!
+<!-- .slide: data-background-image="https://www.britspirit.co.uk/resources/walking-stick_defence_barton-wright_9.gif" data-background-size="70%" -->
+
+<!-- The Gif is done kinda hack-y to make it big enough -->
+
+Note:
+- Btw, this is the "walking stick defense"
+- Clone the repo
+- Make a change
+- Status
+- Commit
+- Push
+
+
+
+## Configuring Git
+
+It won't hurt a bit!
 
 Note:
 - I do want to apologize for that very intentional rhyme
@@ -440,7 +440,6 @@ Note:
 - This is a great way to list items that are TODO
 - Assign people to them
 - Add labels for easy organizing
-- REVIEW THIS SECTION
 
 
 
