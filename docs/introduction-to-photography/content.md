@@ -10,7 +10,7 @@
 
 ## About me
 
-<p style="display: flex; justify-content: center; height: 80%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/about-me.jpg" alt="A picture of Matthew"></img>
 </p>
 
@@ -62,7 +62,7 @@ Note:
 
 ## Types
 
-<p style="display: flex; justify-content: center; height: 70%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/styles.jpg" alt="Cyrstalball over lake"></img>
 </p>
 
@@ -72,7 +72,7 @@ Note:
 
 ## Portrait
 
-<p style="display: flex; justify-content: center; height: 90%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/portrait.jpg" alt="Young man in field"></img>
 </p>
 
@@ -82,7 +82,7 @@ Note:
 
 ## Landscape
 
-<p style="display: flex; justify-content: center; height: 65%;">
+<p style="display: flex; justify-content: center; height: 35%;">
 	<img src="images/landscape.jpg" alt="Tree in infront of mountain in sunset"></img>
 </p>
 
@@ -92,7 +92,7 @@ Note:
 
 ## Street
 
-<p style="display: flex; justify-content: center; height: 90%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/street.jpg" alt="Kids playing in alley"></img>
 </p>
 
@@ -102,7 +102,7 @@ Note:
 
 ## Event
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/event.jpg" alt="Crowd of people in party"></img>
 </p>
 
@@ -112,7 +112,7 @@ Note:
 
 ## Macro
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/macro.jpg" alt="Close up of dandelion"></img>
 </p>
 
@@ -122,7 +122,7 @@ Note:
 
 ## Astrophotography
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/astrophotography.jpg" alt="Galaxy oveer highlight"></img>
 </p>
 
@@ -132,7 +132,7 @@ Note:
 
 ## Architecture
 
-<p style="display: flex; justify-content: center; height: 80%;">
+<p style="display: flex; justify-content: center; height: 45%;">
 	<img src="images/architecture.jpg" alt="Skyscrappers over city"></img>
 </p>
 
@@ -142,7 +142,7 @@ Note:
 
 ## Drone
 
-<p style="display: flex; justify-content: center; height: 60%;">
+<p style="display: flex; justify-content: center; height: 45%;">
 	<img src="images/drone.jpg" alt="Underwater small plane"></img>
 </p>
 
@@ -152,7 +152,7 @@ Note:
 
 ## Sport
 
-<p style="display: flex; justify-content: center; height: 65%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/sport.jpg" alt="Womman playing soccer"></img>
 </p>
 
@@ -162,7 +162,7 @@ Note:
 
 ## Wildlife
 
-<p style="display: flex; justify-content: center; height: 65%;">
+<p style="display: flex; justify-content: center; height: 40%;">
 	<img src="images/wildlife.jpg" alt="Squirel yawning"></img>
 </p>
 
@@ -172,7 +172,7 @@ Note:
 
 ## Composite
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/composite.jpg" alt="Man climbing into moon"></img>
 </p>
 
@@ -230,7 +230,7 @@ Note:
 
 ## Focus
 
-<p style="display: flex; justify-content: center; height: 65%;">
+<p style="display: flex; justify-content: center; height: 35%;">
 	<img src="images/focus.jpg" alt="Dragonfly on grass"></img>
 </p>
 
@@ -279,7 +279,7 @@ Note:
 
 ## Composition
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 65%;">
 	<img src="images/composition.jpg" alt="A yellow crab in the sand"></img>
 </p>
 
@@ -289,7 +289,7 @@ Note:
 
 ## Points and Lines
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/lines.jpg" alt="A woman walking down stairs"></img>
 </p>
 
@@ -300,7 +300,7 @@ Note:
 
 ## Foreground and background
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/foreground.jpg" alt="A bird standing with bridge in background"></img>
 </p>
 
@@ -311,7 +311,7 @@ Note:
 
 ## Perspective
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 45%;">
 	<img src="images/perspective.jpg" alt="A little girl pointing at the top of the Eiffel tower"></img>
 </p>
 
@@ -322,7 +322,7 @@ Note:
 
 ## Balance
 
-<p style="display: flex; justify-content: center; height: 75%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/balance.jpg" alt="A dragon fly in the sunset"></img>
 </p>
 
@@ -333,7 +333,7 @@ Note:
 
 ## Space
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/positive.jpg" alt="A dead tree with perched birds in sky"></img>
 </p>
 
@@ -344,7 +344,7 @@ Note:
 
 ## Patterns
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 85%;">
 	<img src="images/patterns.jpg" alt="Snow and rocky landscape in the setting sun"></img>
 </p>
 
@@ -362,7 +362,7 @@ Note:
 
 ## Rule of Thirds
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 55%;">
 	<img src="images/rule-of-thirds.png" alt="A shadow of a man with surf board on beach"></img>
 </p>
 
@@ -373,7 +373,7 @@ Note:
 
 ## Golden Spiral
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/golden-spiral.jpg" alt="A yellow crab in the sand"></img>
 </p>
 
@@ -435,7 +435,7 @@ Note:
 
 ## Aperture
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/aperture.jpg" alt="Various apeature sizes"></img>
 </p>
 
@@ -457,7 +457,7 @@ Note:
 
 ## Shutter Speed
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/shutter-speed.jpg" alt="Various shuter speeds"></img>
 </p>
 
@@ -474,7 +474,7 @@ Note:
 
 ## ISO
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/iso.jpg" alt="ISO comparison"></img>
 </p>
 
@@ -514,7 +514,7 @@ Note:
 
 ## Sharpness
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 80%;">
 	<img src="images/sharpness.jpg" alt="Sharpness comparison"></img>
 </p>
 
@@ -532,7 +532,7 @@ Note:
 
 ## Depth of Field
 
-<p style="display: flex; justify-content: center; height: 65%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/depth-of-field.jpg" alt="Depth of field diagram"></img>
 </p>
 
@@ -552,7 +552,7 @@ Note:
 
 ## Position
 
-<p style="display: flex; justify-content: center; height: 45%;">
+<p style="display: flex; justify-content: center; height: 15%;">
 	<img src="images/position.jpg" alt="Wedding couple in dooorway"></img>
 </p>
 
@@ -563,7 +563,7 @@ Note:
 
 ## Hard
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/hard.jpg" alt="Couple in grassy field"></img>
 </p>
 
@@ -574,7 +574,7 @@ Note:
 
 ## Soft
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/soft.jpg" alt="Headhsot of girl looking at camera"></img>
 </p>
 
@@ -585,7 +585,7 @@ Note:
 
 ## Color
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/color.jpg" alt="Comparison of colored lights"></img>
 </p>
 
@@ -617,7 +617,7 @@ Note:
 
 ## White Balance
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/white-balance.jpg" alt="Comparison of white balnce modes"></img>
 </p>
 
@@ -640,7 +640,7 @@ Note:
 
 ## Focal Length
 
-<p style="display: flex; justify-content: center; height: 100%;">
+<p style="display: flex; justify-content: center; height: 70%;">
 	<img src="images/focal-length.png" alt="Focal length diagram"></img>
 </p>
 
@@ -650,7 +650,7 @@ Note:
 
 ## Focal Length
 
-<p style="display: flex; justify-content: center; height: 95%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/focal-length.jpg" alt="Focal length comparison"></img>
 </p>
 
@@ -671,7 +671,7 @@ Note:
 
 ## Field of View
 
-<p style="display: flex; justify-content: center; height: 95%;">
+<p style="display: flex; justify-content: center; height: 80%;">
 	<img src="images/field-of-view.jpg" alt="Field of View comparison"></img>
 </p>
 
