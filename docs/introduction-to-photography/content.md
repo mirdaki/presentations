@@ -72,7 +72,7 @@ Note:
 
 ## Portrait
 
-<p style="display: flex; justify-content: center; height: 50%;">
+<p style="display: flex; justify-content: center; height: 35%;">
 	<img src="images/portrait.jpg" alt="Young man in field"></img>
 </p>
 
@@ -82,7 +82,7 @@ Note:
 
 ## Landscape
 
-<p style="display: flex; justify-content: center; height: 35%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/landscape.jpg" alt="Tree in infront of mountain in sunset"></img>
 </p>
 
@@ -92,7 +92,7 @@ Note:
 
 ## Street
 
-<p style="display: flex; justify-content: center; height: 50%;">
+<p style="display: flex; justify-content: center; height: 40%;">
 	<img src="images/street.jpg" alt="Kids playing in alley"></img>
 </p>
 
@@ -142,7 +142,7 @@ Note:
 
 ## Drone
 
-<p style="display: flex; justify-content: center; height: 45%;">
+<p style="display: flex; justify-content: center; height: 25%;">
 	<img src="images/drone.jpg" alt="Underwater small plane"></img>
 </p>
 
@@ -162,7 +162,7 @@ Note:
 
 ## Wildlife
 
-<p style="display: flex; justify-content: center; height: 40%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/wildlife.jpg" alt="Squirel yawning"></img>
 </p>
 
@@ -172,7 +172,7 @@ Note:
 
 ## Composite
 
-<p style="display: flex; justify-content: center; height: 50%;">
+<p style="display: flex; justify-content: center; height: 45%;">
 	<img src="images/composite.jpg" alt="Man climbing into moon"></img>
 </p>
 
@@ -230,7 +230,7 @@ Note:
 
 ## Focus
 
-<p style="display: flex; justify-content: center; height: 35%;">
+<p style="display: flex; justify-content: center; height: 50%;">
 	<img src="images/focus.jpg" alt="Dragonfly on grass"></img>
 </p>
 
@@ -279,7 +279,7 @@ Note:
 
 ## Composition
 
-<p style="display: flex; justify-content: center; height: 65%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/composition.jpg" alt="A yellow crab in the sand"></img>
 </p>
 
@@ -289,7 +289,7 @@ Note:
 
 ## Points and Lines
 
-<p style="display: flex; justify-content: center; height: 50%;">
+<p style="display: flex; justify-content: center; height: 40%;">
 	<img src="images/lines.jpg" alt="A woman walking down stairs"></img>
 </p>
 
@@ -322,7 +322,7 @@ Note:
 
 ## Balance
 
-<p style="display: flex; justify-content: center; height: 50%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/balance.jpg" alt="A dragon fly in the sunset"></img>
 </p>
 
@@ -333,7 +333,7 @@ Note:
 
 ## Space
 
-<p style="display: flex; justify-content: center; height: 50%;">
+<p style="display: flex; justify-content: center; height: 60%;">
 	<img src="images/positive.jpg" alt="A dead tree with perched birds in sky"></img>
 </p>
 
@@ -552,7 +552,7 @@ Note:
 
 ## Position
 
-<p style="display: flex; justify-content: center; height: 15%;">
+<p style="display: flex; justify-content: center; height: 35%;">
 	<img src="images/position.jpg" alt="Wedding couple in dooorway"></img>
 </p>
 
@@ -574,7 +574,7 @@ Note:
 
 ## Soft
 
-<p style="display: flex; justify-content: center; height: 60%;">
+<p style="display: flex; justify-content: center; height: 70%;">
 	<img src="images/soft.jpg" alt="Headhsot of girl looking at camera"></img>
 </p>
 
@@ -585,7 +585,7 @@ Note:
 
 ## Color
 
-<p style="display: flex; justify-content: center; height: 60%;">
+<p style="display: flex; justify-content: center; height: 65%;">
 	<img src="images/color.jpg" alt="Comparison of colored lights"></img>
 </p>
 
@@ -617,7 +617,7 @@ Note:
 
 ## White Balance
 
-<p style="display: flex; justify-content: center; height: 60%;">
+<p style="display: flex; justify-content: center; height: 65%;">
 	<img src="images/white-balance.jpg" alt="Comparison of white balnce modes"></img>
 </p>
 
@@ -640,7 +640,7 @@ Note:
 
 ## Focal Length
 
-<p style="display: flex; justify-content: center; height: 70%;">
+<p style="display: flex; justify-content: center; height: 75%;">
 	<img src="images/focal-length.png" alt="Focal length diagram"></img>
 </p>
 
@@ -650,7 +650,7 @@ Note:
 
 ## Focal Length
 
-<p style="display: flex; justify-content: center; height: 60%;">
+<p style="display: flex; justify-content: center; height: 70%;">
 	<img src="images/focal-length.jpg" alt="Focal length comparison"></img>
 </p>
 
