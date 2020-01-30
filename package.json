@@ -15,7 +15,7 @@
 	},
 	"license": "MIT",
 	"devDependencies": {
-		"reveal.js": "^3.7.0",
+		"reveal.js": "^3.9.1",
 		"revealer": "^2.1.6"
 	},
 	"dependencies": {
