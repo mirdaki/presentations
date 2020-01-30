@@ -552,7 +552,7 @@ Note:
 
 ## Position
 
-<p style="display: flex; justify-content: center; height: 35%;">
+<p style="display: flex; justify-content: center; height: 15%;">
 	<img src="images/position.jpg" alt="Wedding couple in dooorway"></img>
 </p>
 
