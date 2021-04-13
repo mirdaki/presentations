@@ -2,26 +2,20 @@
 
 This repository contains a collection of web presentations I've used in the hopes people will find them useful and suggest improvements!
 
-The presentations uses [reveal.js](https://github.com/hakimel/reveal.js) via [revealer](https://github.com/cdaringe/revealer) to package it as a dependency with the [revealjs-swiss](https://github.com/mirdaki/revealjs-swiss) theme I developed.
+The presentations uses [reveal.js](https://github.com/hakimel/reveal.js) with my theme [revealjs-swiss](https://github.com/mirdaki/revealjs-swiss).
 
 ## Usage
 
-Install node and npm. Then download revealer with:
+Install node and npm. Then download live-server:
 
 ```bash
 npm install --development
 ```
 
-To use the presentation locally, run the below command and go to [localhost:8000](http://localhost:8000/):
+To use the presentation locally, run the below command and go to [127.0.0.1:8080](http://127.0.0.1:8080/):
 
 ```bash
 npm start
-```
-
-To create a fully independent static website in the docs folder, use the below command:
-
-```bash
-npm run build-site
 ```
 
 ## License
