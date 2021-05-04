@@ -42,13 +42,13 @@ Note:
 ## Context
 
 - Breadth of stories and genres
-- Canon/Legacy
+- Canon/Legends
 
 Note:
 - Not everything is about the characters from the movies, though many are
 - Not just space opera/adventure, but primarily are
 - Canon refers to "what actually happened" in universe
-	- Though all legacy is no longer canon, some of legacy wasn't canon at the time
+	- Though all legends is no longer canon, some of legends wasn't canon at the time
 
 
 ## Timeline
@@ -64,7 +64,7 @@ Note:
 
 ## Key
 
-- Rebel Icon <i class="fa fa-rebel" aria-hidden="true"></i> = Legacy
+- Rebel Icon <i class="fa fa-rebel" aria-hidden="true"></i> = Legends
 - Empire Icon <i class="fa fa-empire" aria-hidden="true"></i> = Not read
 
 Note:
@@ -277,7 +277,7 @@ Alt: The Star Wars
 Note:
 - Follow several different takes on the Star Wars story, including my favorite, Sith Leia and a blaster wielding C-3PO
 - A version of Star Wars based on George Lucas's original script. It works, but boy is it different
-- Neither really are cannon or legacy
+- Neither really are cannon or legends
 
 
 ## Comic Strips
@@ -288,7 +288,7 @@ Tag And Bink Are Dead
 
 Note:
 - Revels who pretend to be Stormtroopers to survive and get caught up in a lot of hijinks
-- Not really are cannon or legacy
+- Not really are cannon or legends
 
 
 
@@ -325,7 +325,7 @@ Note:
 - New Battlefront is much more modern, but just doesn't fit my personal preferences
 
 
-## Star-fighting
+## Starfighters
 
 Squadrons
 
