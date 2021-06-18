@@ -20,7 +20,7 @@ So, I'm scrolling through Wikipedia, like any normal person, to make an informed
 
 
 
-## Spain
+## Spanish Florida
 
 <img class="r-stretch" src="images/Flag-of-Cross-of-Burgundy.png" alt="Cross of Burgundy" title="The Cross of Burgundy">
 
@@ -51,15 +51,22 @@ Unfortunately, they also liked to throw a lot of gaudy nonsense over that cool c
 
 ## Ponce de León
 
+<img class="r-stretch" src="images/Juan-Ponce-de-León.jpg" alt="FPonce de León" title="Ponce de León">
+
+Note:
+Eventually, good ol "I want to be young forever" [Ponce de León][Ponce de Leon] set out to establish a [cheesy theme park][Fountain of Youth Park] in Florida, since the other conquistadors already murdered and pillaged the rest of the known "New World".
+
+
+## Ponce de León
+
 <img class="r-stretch" src="images/Fountain-of-Youth-Park.jpg" alt="Fountain of Youth theme park entrance" title="Oh yes, there is actually a Foutain of Youth theme park...">
 
 Note:
-Eventually, good ol "I want to be young forever" Ponce de León set out to establish a [cheesy theme park][Fountain of Youth Park] in Florida, since the other conquistadors already murdered and pillaged the rest of the known "New World".
 Oh and he also brought over that flag! Fortunately, he (or you know, probably someone else) realized how awesome it was and just kept the standard red cross-y bits.
 
 
 
-## Great Britain
+## British Florida
 
 <img class="r-stretch" src="images/Great-Britain-Florida.png" alt="Flag of Great Britain for the Florida territories" title="Flag of Great Britain for Florida territories">
 
@@ -106,7 +113,7 @@ They also realized that was dumb pretty quickly. This time, just thirty years la
 
 
 
-## "It was red right?" Florida
+## Wrong Florida
 
 <img class="r-stretch" src="images/Flag-of-Florida-(1900).png" alt="Florida Flag (1900)" title="Florida Flag (1900)">
 
@@ -171,6 +178,7 @@ Oh and before I leave you, [this][Flag Redesign], this should be the Florida fla
 [Cross of Burgundy]: https://en.wikipedia.org/wiki/Cross_of_Burgundy
 [Burgundy]: https://en.wikipedia.org/wiki/Burgundy
 [Charles the Bold]: https://en.wikipedia.org/wiki/Charles_the_Bold
+[Juan Ponce de Leon]: https://en.wikipedia.org/wiki/Juan_Ponce_de_Le%C3%B3n#/
 [Fountain of Youth Park]: https://en.wikipedia.org/wiki/Fountain_of_Youth_Archaeological_Park
 [St. Andrews Cross]: https://en.wikipedia.org/wiki/St._Andrew%27s_Cross
 [Flag of Alabama]: https://en.wikipedia.org/wiki/Flag_of_Alabama
