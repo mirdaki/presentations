@@ -18,7 +18,7 @@ Note:
 
 ## About me
 
-- Photography for 5 years
+- Photography for 7 years
 - Focus on macro
 - Photos at [codecaptured.com](https://codecaptured.com)
 
@@ -605,6 +605,15 @@ Note:
 
 Note:
 - Ref: https://arqspin.com/wp-content/uploads/2013/11/field-of-view-copy.jpg
+
+
+
+## Long Practice <!-- .element: style="color: #E74727;" -->
+
+<!-- .slide: data-background-image="images/practice-6.gif" data-background-size="70%" -->
+
+Note:
+- Ref: https://i.pinimg.com/originals/43/6c/99/436c99be90987517a24eace93850902a.gif
 
 
 
